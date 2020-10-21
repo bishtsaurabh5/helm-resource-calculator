@@ -1,0 +1,6 @@
+name: "resource-calculator"
+version: "0.1.0"
+usage: "get the total resources for a release"
+description: "get the total resources for a release(requests/limits)"
+ignoreFlags: false
+command: ""
